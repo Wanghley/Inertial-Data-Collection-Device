@@ -1,8 +1,6 @@
-![Inertial Data Collection Device](https://raw.githubusercontent.com/Wanghley/Inertial-Data-Collection-Device/main/images/cover.png)
-![Developing](https://img.shields.io/badge/Development%20Status-in%20progress-lightgrey)
-[![releases](https://img.shields.io/github/v/release/wanghley/Inertial-Data-Collection-Device?include_prereleases&sort=semver)](https://github.com/Wanghley/Inertial-Data-Collection-Device/releases)
-[![license](https://img.shields.io/github/license/Wanghley/Inertial-Data-Collection-Device)](https://github.com/RodrigoDornelles/pcb-snowman-xmas/blob/master/LICENSE.txt)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f7f95c491d14a2aa806aab2d97764f6)](https://www.codacy.com/gh/Wanghley/Inertial-Data-Collection-Device/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Wanghley/Inertial-Data-Collection-Device&amp;utm_campaign=Badge_Grade)
+![Inertial Data Collection Device](https://raw.githubusercontent.com/Wanghley/Inertial-Data-Collection-Device/main/images/cover.png)<br>
+[![license](https://img.shields.io/badge/CC_BY--NC--SA_4.0-A5ACA6?style=for-the-badge&logo=Creative-Commons&logoColor=black)](https://github.com/Wanghley/Inertial-Data-Collection-Device/blob/main/LICENSE) ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![eagle](https://img.shields.io/badge/Eagle-D57A21?style=for-the-badge&logo=autodesk&logoColor=white)  [![sponsors](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wanghley)
+
 
 >  printed circuit board and code for collecting inertial data to research purposes of movements.
 
