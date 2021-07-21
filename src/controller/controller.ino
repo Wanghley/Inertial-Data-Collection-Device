@@ -14,8 +14,8 @@ DATE: Nov 19, 2020
 
 #define BTNMODE 9 //Button for mode selection
 #define BTNCOLLECTION 12 //Button for start collection
-#define POWERLED 7 //LED power indicator
-#define COLLECTLED 8 //LED collection happening indicator
+#define POWERLED 8 //LED power indicator
+#define COLLECTLED 7 //LED collection happening indicator
 
 // LED for indication of operation mode: Standalone, Serial, MotionSense
 #define OPERATIONLED_RED 5 //Standalone
