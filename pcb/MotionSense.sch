@@ -8399,14 +8399,6 @@ Wanghley Soares Martins</text>
 <pinref part="ARDUINO-NANO" gate="MODUL" pin="A4"/>
 </segment>
 </net>
-<net name="N$9" class="0">
-<segment>
-<pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="96.52" y1="76.2" x2="96.52" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="96.52" y1="78.74" x2="76.2" y2="78.74" width="0.1524" layer="91"/>
-<pinref part="ARDUINO-NANO" gate="MODUL" pin="D7"/>
-</segment>
-</net>
 <net name="N$10" class="0">
 <segment>
 <pinref part="PUSH-START" gate="G$1" pin="3"/>
@@ -8525,18 +8517,26 @@ Wanghley Soares Martins</text>
 <wire x1="134.62" y1="81.28" x2="134.62" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$13" class="0">
-<segment>
-<pinref part="R5" gate="G$1" pin="2"/>
-<pinref part="ARDUINO-NANO" gate="MODUL" pin="D8"/>
-<wire x1="109.22" y1="76.2" x2="76.2" y2="76.2" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$21" class="0">
 <segment>
 <pinref part="R6" gate="G$1" pin="1"/>
 <wire x1="119.38" y1="78.74" x2="116.84" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="78.74" x2="116.84" y2="81.28" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$9" class="0">
+<segment>
+<pinref part="ARDUINO-NANO" gate="MODUL" pin="D7"/>
+<pinref part="R5" gate="G$1" pin="2"/>
+<wire x1="76.2" y1="78.74" x2="109.22" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="78.74" x2="109.22" y2="76.2" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$13" class="0">
+<segment>
+<pinref part="ARDUINO-NANO" gate="MODUL" pin="D8"/>
+<pinref part="R3" gate="G$1" pin="2"/>
+<wire x1="76.2" y1="76.2" x2="96.52" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
