@@ -42,6 +42,9 @@ In order to run and contribute to the PCB development you must have **Eagle**  i
 
 Now, for the development under de code of hardware control you must have Arduino IDE or similar to work on the .ino code.
 
+## Versioning
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Wanghley/Inertial-Data-Collection-Device/tags).
+
 ## Authors
 *   **Wanghley Soares Martins** - *junior researcher* - [wanghley](https://github.com/wanghley)
 *   **Fábio Henrique Monteiro Oliveira** - *research advisor* - [oliveirafhm](https://github.com/oliveirafhm)
