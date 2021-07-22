@@ -2,10 +2,8 @@
 AUTHOR: Wanghley Soares Martins (@wanghley)
 DATE: April 11, 2019
 CONTACT: wanghleys@gmail.com
-REV1: Fabio Henrique, Lissa Ximenes
+REV: Fabio Henrique, Lissa Ximenes
 DATE: Sep 19, 2019
-REV2: Wanghley Soares Martins
-DATE: Nov 19, 2020
 */
 #include <TimerOne.h>       // Library for timer interrupt
 #include <MPU6050.h>        // Standard library for manipulation on the MPU6050
