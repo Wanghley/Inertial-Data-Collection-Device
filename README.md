@@ -1,5 +1,5 @@
 ![Inertial Data Collection Device](https://raw.githubusercontent.com/Wanghley/Inertial-Data-Collection-Device/main/images/cover.png)<br>
-[![license](https://img.shields.io/badge/CC_BY--NC--SA_4.0-A5ACA6?style=for-the-badge&logo=Creative-Commons&logoColor=black)](https://github.com/Wanghley/Inertial-Data-Collection-Device/blob/main/LICENSE) ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![eagle](https://img.shields.io/badge/Eagle-D57A21?style=for-the-badge&logo=autodesk&logoColor=white)  [![sponsors](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wanghley)
+[![license](https://img.shields.io/badge/CC_BY--NC--SA_4.0-A5ACA6?style=for-the-badge&logo=Creative-Commons&logoColor=black)](https://github.com/Wanghley/Inertial-Data-Collection-Device/blob/main/LICENSE) [![version](https://img.shields.io/badge/Version-3.1-00C160?style=for-the-badge&logo=&logoColor=white)](https://github.com/Wanghley/Inertial-Data-Collection-Device/releases) ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![eagle](https://img.shields.io/badge/Eagle-D57A21?style=for-the-badge&logo=autodesk&logoColor=white)  [![sponsors](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wanghley)
 
 
 >  printed circuit board and code for collecting inertial data to research purposes of movements.
@@ -56,17 +56,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 *   Remember, the project is free for you to use, manipulate, change and distribute. However, I am just asking you to mention us in any copy, modification as the root of your development.
 *   I would advice you to try out the hardware with an analysis of the result data.
 *   If you want an easier software for hardware control, check out the [CONTROL SOFTWARE](https://github.com/Wanghley/PIBIC-Strategies-Data-Visualization-Medicine)
-### JOBS TODO
-- [x] Update manufacturing images
-- [x] Update 3D assembled prototype
-- [x] Update gerber file
-- [x] Update header
-- [ ] Update descripiting photo
-- [ ] Make use fluxogram
-- [x] Update list of components
-- [ ] Make list of buy components
-
-
 
 ## Gallery
 General view of the projected PCB. For more images go to [images/](https://github.com/Wanghley/Inertial-Data-Collection-Device/tree/main/images) and if you still want to see more you can see 3D views on [view/](https://github.com/Wanghley/Inertial-Data-Collection-Device/tree/main/view)
